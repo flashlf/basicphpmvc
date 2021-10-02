@@ -1,8 +1,8 @@
 <?php
 
 Class App {
-    protected $controller = 'Home';
-    protected $method = 'index';
+    protected $controller = 'Home'; #Setting Default Controller disini
+    protected $method = 'index'; #Setting Default Method disini
     protected $params = [];
     function __construct() {
         #echo "<h4>App class loaded</h4>";

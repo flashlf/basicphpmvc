@@ -1,8 +1,8 @@
 <?php
-class User_model {
+class Dummy_model {
     private $name = "Adam";
 
-    function getUser() {
+    function getDummy() {
         return $this->name;
     }
 }

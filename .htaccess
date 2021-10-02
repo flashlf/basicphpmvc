@@ -1,2 +1,2 @@
-#Alternate default index page
+#Alternatif routing untuk halaman index
 DirectoryIndex public/index.php

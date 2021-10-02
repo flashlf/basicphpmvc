@@ -17,8 +17,6 @@
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                 <a class="nav-link <?= ($data["judul"] == 'Home' ? 'active' : '') ?>" href="<?= BASE_URL; ?>/home">Home</a>
-                <a class="nav-link <?= ($data["judul"] == 'Mahasiswa' ? 'active' : '') ?>" href="<?= BASE_URL; ?>/mahasiswa">Mahasiswa</a>
-                <a class="nav-link <?= ($data["judul"] == 'About' ? 'active' : '') ?>" href="<?= BASE_URL; ?>/about">About</a>
                 </div>
             </div>
         </div>
