@@ -1,4 +1,4 @@
-# Basic PHP MVC Concept
+# Archive App DEADLINE 27 Oct 2021
 ## Requirement :
 - XAMPP or equivalent software
 - MySQL Database driver
@@ -7,4 +7,5 @@
 ## Instalation :
 1. Clone this repo / download
 2. Extract to your local docroot, Windows (something like this `C:\xampp\htdocs\`), UNIX\LINUX (`var\www\html\`)
-3. Finally Run your local server and access it using browser
+3. Import dummy data `app\archive_app.sql` into local database
+4. Finally Run your local server and access it using browser
