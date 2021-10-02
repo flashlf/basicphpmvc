@@ -7,5 +7,4 @@
 ## Instalation :
 1. Clone this repo / download
 2. Extract to your local docroot, Windows (something like this `C:\xampp\htdocs\`), UNIX\LINUX (`var\www\html\`)
-3. Import dummy data `todophpmvc.sql` into local database
-4. Finally Run your local server and access it using browser
+3. Finally Run your local server and access it using browser
