@@ -22,3 +22,8 @@
         </div>
     </nav>
     <div class="container">
+        <div class="row mt-5">
+            <div class="col-lg-6">
+                <?php Flasher::flash(); ?>
+            </div>
+        </div>
